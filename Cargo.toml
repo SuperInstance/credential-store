@@ -1,9 +1,11 @@
 [package]
 name = "credential-store"
 version = "0.1.0"
-description = "A Rust library for Credential Store"
+description = "Credential Store — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/credential-store"
+repository = "https://github.com/SuperInstance/credential-store"
 edition = "2021"
+
+keywords = ["credential-store"]
 
 [dependencies]
